@@ -23,4 +23,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-contributor-stats.vercel.app/api?username=MetamorphosisDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1fDFHXcykq4iw8Gg7s5hG9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
