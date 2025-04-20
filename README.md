@@ -2,7 +2,7 @@
 [![](flapp.png)](#)
 ‎ 
 # 💫 About Me:
-🔭 I’m currently working on Web & Design<br>🌱 I’m currently learning
+• 🔭 I’m currently working on Web & Design |  •🌱 I’m currently learning
 
 
 ## 🌐 Socials:
