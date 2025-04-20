@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-[![](Mount.jpg)](#)
+[![](mount2.jpg)](#)
 
 # 💫 About Me:
 🔭 I’m currently working on Web & Design<br>🌱 I’m currently learning
