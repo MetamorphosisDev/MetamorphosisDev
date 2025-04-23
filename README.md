@@ -1,5 +1,5 @@
 
-[![](flapp.png)](#)
+[![](chesspic.jpg)](#)
 ‎ 
 # 💫 About Me:
 ✨ Hello there! I’m a curious soul exploring the digital cosmos.  
