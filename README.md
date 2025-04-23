@@ -38,13 +38,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=metamorphosisdev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 📊 GitHub Stats & Most Used Languages
-
 <table>
   <tr>
     <td>
@@ -59,8 +52,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 ## 🏆 GitHub Trophies
