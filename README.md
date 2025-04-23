@@ -1,13 +1,12 @@
 
 [![](chesspic.jpg)](#)
 
-</p>
 # 💫 About Me:
 ✨ Hello there! I’m a curious soul exploring the digital cosmos.  
-|  • 🔭 Currently crafting magic in Web Development & UI/UX Design  
-|  • 🌱 Continuously learning new things—especially front-end tech & design trends  
-|  • 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
-|  • 💬 Let’s talk code, design, or your next creative idea!  
+- 🔭 Currently crafting magic in Web Development & UI/UX Design  
+- 🌱 Continuously learning new things—especially front-end tech & design trends  
+- 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
+- 💬 Let’s talk code, design, or your next creative idea!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1MMNwvG9xM/) ‎ ‎ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfaarros)
