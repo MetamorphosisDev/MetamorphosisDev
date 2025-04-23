@@ -42,7 +42,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=metamorphosisdev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📊 GitHub Stats & Streak
+
+### 📊 GitHub Stats & Most Used Languages
+
 <table>
   <tr>
     <td>
@@ -50,11 +52,14 @@
       <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=metamorphosisdev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&layout=normal" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 
