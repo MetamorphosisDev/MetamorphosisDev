@@ -1,6 +1,5 @@
 
 [![](chesspic.jpg)](#)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MetamorphosisDev&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 # 💫 About Me:
 ✨ Hello there! I’m a curious soul exploring the digital cosmos.  
