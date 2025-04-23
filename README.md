@@ -8,6 +8,19 @@
  - 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
  - 💬 Let’s talk code, design, or your next creative idea!
 
+<details  align="center">
+<summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
+<br>                     
+<p  align="center">
+<img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img  alt="Visual Studio"  src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img  alt="Atom"  src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+<img  alt="Sublime Text"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img  alt="Android Studio"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img  alt="Insomnia"  src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+<img  alt="Postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 ## 🌐 Socials:
 <div align="left">
   <a href="https://instagram.com/alfaarros" target="_blank">
