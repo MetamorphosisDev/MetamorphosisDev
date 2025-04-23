@@ -4,9 +4,9 @@
 # 💫 About Me:
 ✨ Hello there! I’m a curious soul exploring the digital cosmos.  
  - 🔭 Currently crafting magic in Web Development & UI/UX Design  
- 🌱 Continuously learning new things—especially front-end tech & design trends  
- 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
- 💬 Let’s talk code, design, or your next creative idea!
+ - 🌱 Continuously learning new things—especially front-end tech & design trends  
+ - 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
+ - 💬 Let’s talk code, design, or your next creative idea!
 
 ## 🌐 Socials:
 <div align="left">
