@@ -42,6 +42,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=metamorphosisdev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 📊 GitHub Stats & Streak
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=metamorphosisdev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=metamorphosisdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
