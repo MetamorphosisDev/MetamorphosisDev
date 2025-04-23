@@ -1,6 +1,5 @@
 
 [![](chesspic.jpg)](#)
-‎ 
 # 💫 About Me:
 ✨ Hello there! I’m a curious soul exploring the digital cosmos.  
 |  • 🔭 Currently crafting magic in Web Development & UI/UX Design  
