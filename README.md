@@ -55,7 +55,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
 
 
