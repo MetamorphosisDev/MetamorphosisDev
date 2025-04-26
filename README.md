@@ -55,7 +55,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MetamorphosisDev)](https://github.com/MetamorphosisDev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MetamorphosisDev&no-frame=true)
 
 
 
