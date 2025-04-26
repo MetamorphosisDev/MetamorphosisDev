@@ -55,9 +55,8 @@
 
 
 ## 🏆 GitHub Trophies
-<p  align="center">
 <img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=mark123jesper&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Mark Jesper github stats"/>
-</p>
+
 
 
 ### ✍️ Random Dev Quote
