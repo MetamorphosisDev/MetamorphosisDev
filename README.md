@@ -55,7 +55,10 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=metamorphosisdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p  align="center">
+<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=mark123jesper&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Mark Jesper github stats"/>
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
