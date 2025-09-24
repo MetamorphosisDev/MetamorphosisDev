@@ -176,7 +176,7 @@
 
 ---
 
-## 💭 Random Dev Quote - Daily Inspiration
+## 💭 Random
 
 <div align="center">
 
@@ -185,8 +185,7 @@
 <br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+for+machines+to+understand%22;%22Design+is+intelligence+made+visible%22;%22Innovation+distinguishes+between+leader+and+follower%22;%22The+best+error+message+is+the+one+that+never+shows+up%22" alt="Inspirational Quotes" />
 
