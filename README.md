@@ -179,9 +179,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="100"> **Sparkling with achievements!** <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="100">
-
-</div>
 
 ---
 
