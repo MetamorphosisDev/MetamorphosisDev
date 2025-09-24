@@ -125,17 +125,17 @@
       <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" alt="GIF" />
-    </td>
-    <td align="center">
-      <!-- Kosong atau bisa isi badge lain -->
-    </td>
-  </tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </td>
+  <td align="center">
+    <!-- Kosong atau bisa isi badge lain -->
+  </td>
+</tr>
 </table>
 
 
