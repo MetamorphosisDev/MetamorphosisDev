@@ -13,7 +13,7 @@
 
 </div>
 
----
+----
 
 ## 🚀 About Me - A Curious Soul Exploring the Digital Cosmos
 
@@ -138,14 +138,12 @@
 </tr>
 </table>
 
-
+---
 ## 📊 GitHub Analytics - My Digital Footprint
 
-<div align="center">
+**Statistics & Achievements** 
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **Statistics & Achievements** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
-
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -169,11 +167,9 @@
 
 ## 🏆 GitHub Trophies - Collecting Digital Achievements
 
-<div align="center">
+**Trophy Collection** 
 
-<img src="https://media.giphy.com/media/26BkNhQZHaJjHhBUQ/giphy.gif" width="50"> **Trophy Collection** <img src="https://media.giphy.com/media/26BkNhQZHaJjHhBUQ/giphy.gif" width="50">
-
-<br><br>
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=metamorphosisdev&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
@@ -208,71 +204,19 @@
 
  **Featured Work**
 
-<br><br>
+<br>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=metamorphosisdev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="50"> **Analyzing contribution patterns...** <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="50">
-
-</div>
-
 ---
-
-
-<div align="center">
-
-<br>
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
-
-</div>
-
----
-
-## 🌟 Let's Create Something Amazing Together
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"> **Collaboration & Opportunities** <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-
-<br><br>
-
-**I'm always excited to work on:**
-- 🚀 Innovative web applications
-- 🎨 Creative UI/UX projects
-- 💡 Open source contributions
-- 🌟 Freelance design work
-- 🤝 Collaborative coding adventures
-
-<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ready+to+transform+your+ideas+into+reality%3F;Let's+build+the+future+together!;Your+vision+%2B+My+skills+%3D+Digital+Magic" alt="Collaboration Message" />
 
 </div>
 
 ---
-
-## 📈 Profile Views & Visitor Analytics
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **Visitor Counter** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
-
-<br><br>
-
-<img src="https://visitcount.itsvg.in/api?id=metamorphosisdev&icon=5&color=6" alt="Visitor Count" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;You're+visitor+number+%E2%9C%A8;Hope+you+enjoyed+the+journey!" alt="Thank You Message" />
-
-</div>
-
----
-
-## 🎊 Thank You For Visiting My Digital Universe!
 
 <div align="center">
 
@@ -281,35 +225,14 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50"> **Keep in touch and let's create digital magic together!** <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
+
 
 <br><br>
-
-<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200">
-
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=May+your+code+compile+on+the+first+try;And+your+designs+inspire+the+world;Until+we+meet+again+in+the+digital+realm...;Happy+coding!+%F0%9F%9A%80%E2%9C%A8" alt="Farewell Message" />
-
-<br><br>
-
 <!-- Neon Line Effect -->
 <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="100%">
-
 </div>
 
 ---
 
-<div align="center">
 
-**⭐ Don't forget to star some repositories if you found them interesting! ⭐**
-
-<br>
-
-Made with 💖 and lots of ☕ by **MetamorphosisDev**
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Happy Coding!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-
-</div>
