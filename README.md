@@ -48,8 +48,9 @@
 <div align="center">
 
  **Let's build something amazing together!** 
- <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
-
+<div align="center">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
+</div>
 <br><br>
 
 <a href="https://instagram.com/metamorphosisdev" target="_blank">
