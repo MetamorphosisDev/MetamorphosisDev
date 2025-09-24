@@ -137,7 +137,7 @@
 </table>
 
 ---
-## 📊 GitHub Analytics - My Digital Footprint
+## 📊 GitHub Analytics
 
 **Statistics & Achievements** 
 
