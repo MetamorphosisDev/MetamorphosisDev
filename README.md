@@ -1,4 +1,6 @@
-## Hello World 
+<div align="center">
+## Hello World
+</div>
   
 <!-- Animated Banner -->
 <div align="center">
