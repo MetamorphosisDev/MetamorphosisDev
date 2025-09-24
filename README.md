@@ -130,8 +130,29 @@
 <div align="center">
   <img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width="100">
   <br><br>
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="400">
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+for+machines+to+understand%22;%22Design+is+intelligence+made+visible%22;%22Innovation+distinguishes+between+leader+and+follower%22;%22The+best+error+message+is+the+one+that+never+shows+up%22" alt="Inspirational Quotes" />
 </div>
 
+---
+
+
+
+<div align="center">
+
+<!-- Animated Thank You Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontAlignY=65&desc=Keep%20coding%20and%20stay%20creative!&descAlignY=51&descAlign=50&animation=fadeIn"/>
+
+<br>
+
+---
+
+<br><br>
+<br>
+<!-- Neon Line Effect -->
+<img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="100%">
+</div>
+
+---
