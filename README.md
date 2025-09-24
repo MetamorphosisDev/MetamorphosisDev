@@ -56,34 +56,40 @@
 ---
 
 ## 💫 Skills & GitHub Analytics
-
+<div align="center">
 <table width="100%">
 <tr>
-  <!-- Skills -->
-  <td valign="top" width="50%" style="border-right:1px solid #00D9FF; padding-right:10px;">
-    <div align="center">
-      <h2>🛠 Skills</h2>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3OGUwNDloZ2Fpc3R6b25pd3lvc3d1YW1kMmN4c2h4eGVjMnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150">
-    </div>
-    <br>
-    <table>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
-      </tr>
-    </table>
-  </td>
+<!-- Skills -->
+<td valign="top" width="50%" style="border-right:1px solid #00D9FF; padding-right:10px;">
+  <div align="center">
+    <h2>🛠 Skills</h2>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3OGUwNDloZ2Fpc3R6b25pd3lvc3d1YW1kMmN4c2h4eGVjMnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150">
+  </div>
+  <br>
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /></td>
+    </tr>
+  </table>
+</td>
+</div>
 
   <!-- GitHub Analytics -->
   <td valign="top" width="50%" style="padding-left:10px;">
