@@ -215,10 +215,8 @@
 ## 🌟 Top Contributed Repository - My Masterpiece
 
 <div align="center">
-
+ <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
  **Featured Work**
- 
- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150">
 
 <br><br>
 
