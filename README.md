@@ -1,6 +1,7 @@
 <div align="center">
-##Hello World
+  <h2>👋 Hello World</h2>
 </div>
+
   
 <!-- Animated Banner -->
 <div align="center">
@@ -16,7 +17,9 @@
 
 ----
 
-## 🚀 About Me - A Curious Soul Exploring the Digital Cosmos
+<div align="center">
+  <h2>🚀 About Me</h2>
+</div>
 
 <div align="center">
   
@@ -44,7 +47,10 @@
 
 ---
 
-## 🌐 Connect 
+<div align="center">
+  <h2>🌐 Connect </h2>
+</div>
+
 
 <div align="center">
 
@@ -58,16 +64,9 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://facebook.com/metamorphosisdev" target="_blank">
+
+<a href="https://www.facebook.com/share/1LjoebtkpC/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/metamorphosisdev" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/metamorphosisdev" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
 </a>
 
 
