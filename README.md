@@ -182,8 +182,6 @@
 
 <img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width="50">
 
-<br>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 <br>
 
