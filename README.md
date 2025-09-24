@@ -72,11 +72,10 @@
 
 ---
 
-## 💫 Tech Stack - My Arsenal of Digital Magic
+## 💫 Skills
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"> **Programming Languages & Frameworks** <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50">
+<img src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" width="50">  
 
 <br><br>
 
