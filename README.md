@@ -2,7 +2,7 @@
 [![](test123.png)](#)
 
 # 💫 About Me:
-✨ Hello there! I’m a curious soul exploring the digital cosmos.  
+✨ Hello there! I’m a curious soul exploring the digital cosmos 
  - 🔭 Currently crafting magic in Web Development & UI/UX Design  
  - 🌱 Continuously learning new things—especially front-end tech & design trends  
  - 🎨 Passionate about creating clean, modern, and user-friendly interfaces  
