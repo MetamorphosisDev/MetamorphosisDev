@@ -1,4 +1,4 @@
-# 🌌 Welcome to My Digital Cosmos 🌌
+# Hello World 
 
 <div align="center">
   
@@ -19,7 +19,7 @@
 
 <div align="center">
   
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </div>
 
