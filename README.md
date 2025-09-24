@@ -81,88 +81,63 @@
 </div>
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120&color=239120" alt="C#" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=00599C" alt="C++" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B" alt="WordPress" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" />
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" alt="Lightroom Classic" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" alt="GIF" />
+    </td>
+    <td align="center">
+      <!-- Kosong atau bisa isi badge lain -->
+    </td>
+  </tr>
 </table>
 
-<br>
-
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> **Adobe Creative Suite** <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50">
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00&color=FF9A00" alt="Adobe Illustrator" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF&color=31A8FF" alt="Adobe Photoshop" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white&labelColor=31A8FF&color=31A8FF" alt="Adobe Lightroom" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobe-lightroom-classic&logoColor=white&labelColor=31A8FF&color=31A8FF" alt="Adobe Lightroom Classic" />
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"> **Design Tools** <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50">
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E" alt="Figma" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC&color=00C4CC" alt="Canva" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=F7B500&color=F7B500" alt="Sketch" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-</div>
-
----
 
 ## 📊 GitHub Analytics - My Digital Footprint
 
