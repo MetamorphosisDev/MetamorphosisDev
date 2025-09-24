@@ -73,8 +73,9 @@
 ---
 
 ## 💫 Skills
-
-<div class="tenor-gif-embed" data-postid="23864910" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">Hacker Hacker Man GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3OGUwNDloZ2Fpc3R6b25pd3lvc3d1YW1kMmN4c2h4eGVjMnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200">
+</div>
 
 <table>
 <tr>
