@@ -32,8 +32,6 @@
 - 🎨 **Love creating:** Clean, modern, user-friendly interfaces that inspire
 - 💬 **Always open to talk about:** Code, design, creative ideas & tech innovations
 - 🌟 **Mission:** Transforming ideas into digital experiences that matter
-- 💡 **Philosophy:** "Design is not just what it looks like - design is how it works"
-- 🎯 **Goal:** Building the web, one pixel at a time
 
 </div>
 
@@ -45,11 +43,11 @@
 
 ---
 
-## 🌐 Connect With Me Across The Universe
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 <br><br>
 
