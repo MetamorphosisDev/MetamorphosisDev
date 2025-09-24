@@ -55,60 +55,63 @@
 
 ---
 
-## 💫 Skills & GitHub Analytics
 <div align="center">
-<table width="100%">
-<tr>
-<!-- Skills -->
-<td valign="top" width="50%" style="border-right:1px solid #00D9FF; padding-right:10px;">
-  <div align="center">
-    <h2>🛠 Skills</h2>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3OGUwNDloZ2Fpc3R6b25pd3lvc3d1YW1kMmN4c2h4eGVjMnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150">
-  </div>
-  <br>
+  <h2>🛠 Skills</h2>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3OGUwNDloZ2Fpc3R6b25pd3lvc3d1YW1kMmN4c2h4eGVjMnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150">
+  <br><br>
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></td>
       <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></td>
-    </tr>
-    <tr>
       <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></td>
       <td align="center"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></td>
       <td align="center"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /></td>
     </tr>
   </table>
-</td>
 </div>
 
-  <!-- GitHub Analytics -->
-  <td valign="top" width="50%" style="padding-left:10px;">
-    <div align="center">
-      <h2>📊 GitHub Analytics</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=metamorphosisdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="300">
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=metamorphosisdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="300">
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="300">
-    </div>
-  </td>
+
+
+---
+<div align="center">
+  <h2>📊 GitHub Analytic</h2>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=metamorphosisdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=metamorphosisdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamorphosisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</td>
 </tr>
 </table>
 
+<br>
+
+
 ---
 
-## 🏆 GitHub Trophies & Top Contributed Repo
+<div align="center">
+  <h2>🏆 GitHub Trophie</h2>
+</div>
 
+<div align="center">
 <table width="100%">
 <tr>
   <!-- Trophies -->
@@ -122,17 +125,19 @@
   <!-- Top Contributed Repo -->
   <td valign="top" width="50%" style="padding-left:10px;">
     <div align="center">
-      <h2>🌟 Top Contributed Repository</h2>
+      <h2>🌟 Top Repository</h2>
       <img src="https://github-contributor-stats.vercel.app/api?username=metamorphosisdev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="300">
     </div>
   </td>
 </tr>
 </table>
+<div align="center">
 
 ---
 
-## 💭 Random & Quotes
-
+<div align="center">
+  <h2>🏆 💭 Random</h2>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width="100">
   <br><br>
