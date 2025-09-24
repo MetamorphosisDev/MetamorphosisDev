@@ -165,15 +165,6 @@
 
 <br>
 
-<!-- Loading Animation -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
-
-<br>
-
-**Loading more awesome stats...** 🚀
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies - Collecting Digital Achievements
