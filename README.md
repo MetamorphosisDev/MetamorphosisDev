@@ -47,7 +47,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+ **Let's build something amazing together!** 
+ <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
 
 <br><br>
 
@@ -67,11 +68,6 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
 </a>
 
-<br><br>
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30"> **Drop me a message and let's create something extraordinary!** <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
-
-</div>
 
 ---
 
