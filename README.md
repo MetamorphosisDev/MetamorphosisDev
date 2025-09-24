@@ -1,4 +1,6 @@
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Swenzy"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Swenzyim&color=191717">
 
+<div align="center">
 [![](test123.png)](#)
 
 # 💫 About Me:
