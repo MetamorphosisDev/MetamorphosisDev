@@ -1,6 +1,4 @@
-# Hello World 
-
-<div align="center">
+## Hello World 
   
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MetamorphosisDev&fontSize=42&fontAlignY=32&desc=Web%20Developer%20|%20UI/UX%20Enthusiast%20|%20Designer&descAlignY=51&descAlign=50&animation=fadeIn"/>
@@ -43,7 +41,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect 
 
 <div align="center">
 
@@ -163,7 +161,7 @@
 
 ---
 
-## 🏆 GitHub Trophies - Collecting Digital Achievements
+## 🏆 GitHub Trophies 
 
 **Trophy Collection** 
 
@@ -180,13 +178,12 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width="50">
-
+<img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width="100">
+<br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+for+machines+to+understand%22;%22Design+is+intelligence+made+visible%22;%22Innovation+distinguishes+between+leader+and+follower%22;%22The+best+error+message+is+the+one+that+never+shows+up%22" alt="Inspirational Quotes" />
-
 </div>
 
 ---
