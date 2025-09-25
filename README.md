@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Hello World, I'm Jona Al Farros</h2>
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MetamorphosisDev)
+  (https://komarev.com/ghpvc/?username=MetamorphosisDev)
 </div>
 <!-- Animated Banner -->
 <div align="center">
