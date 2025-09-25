@@ -1,7 +1,7 @@
 <div align="center">
   <h2>👋 Hello World, I'm Jona Al Farros</h2>
+  <br>
 </div>
-<br>
 <!-- Animated Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MetamorphosisDev&fontSize=42&fontAlignY=32&desc=Web%20Developer%20|%20UI/UX%20Enthusiast%20|%20Designer&descAlignY=51&descAlign=50&animation=fadeIn"/>
