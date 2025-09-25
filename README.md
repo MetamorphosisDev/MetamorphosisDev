@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>👋 Hello World, I'm Jona Al Farros</h2>
-  <h5></h5>
+  <h2>👋 Hello World </h2>
+  <h5> I'm Jona Al Farros </h5>
 </div>
 <!-- Animated Banner -->
 <div align="center">
