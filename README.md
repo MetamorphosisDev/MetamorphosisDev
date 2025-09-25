@@ -1,15 +1,3 @@
-<div align="center">
-  <h2>👋 Hello World, I'm Jona Al Farros</h2>
-</div>
-<!-- Animated Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MetamorphosisDev&fontSize=42&fontAlignY=32&desc=Web%20Developer%20|%20UI/UX%20Enthusiast%20|%20Designer&descAlignY=51&descAlign=50&animation=fadeIn"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+MetamorphosisDev+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Enthusiast;Designer+%7C+Creative+Problem+Solver;Crafting+Digital+Experiences+%E2%9C%A8;Welcome+to+My+Coding+Universe+%F0%9F%9A%80" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;">
-</div>
-
----
-
 <!-- About Me + Connect 2 Columns -->
 <table width="100%">
 <tr>
