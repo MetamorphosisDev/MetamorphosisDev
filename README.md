@@ -15,6 +15,6 @@ Student at **SMK Taruna Bhakti** with a passion for **fullstack web development 
 ***
 
 
-***-ㅤConnect*** <br><br>
+***-ㅤConnect*** <br>
 ㅤ• IG: @alfaarros<br>
 ㅤ• Email: jonasusilo804@gmail.com 
