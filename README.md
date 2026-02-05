@@ -1,4 +1,4 @@
-![Alt Text](bannerupd.png)
+![Alt Text](Bannerupd.png)
 ##
 ***-ㅤAbout***
 <br>
