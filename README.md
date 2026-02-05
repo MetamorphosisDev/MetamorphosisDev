@@ -19,11 +19,4 @@ Student at **SMK Taruna Bhakti** with a passion for **fullstack web development 
 ㅤ• Githubㅤㅤ‎‎: MetamorphosisDev<br>
 ㅤ• Emailㅤㅤㅤ: jonasusilo804@gmail.com 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MetamorphosisDev/MetamorphosisDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MetamorphosisDev/MetamorphosisDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MetamorphosisDev/MetamorphosisDev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+\
