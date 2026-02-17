@@ -19,4 +19,3 @@ Student at **SMK Taruna Bhakti** with a passion for **fullstack web development 
 ㅤ• Githubㅤㅤ‎‎: MetamorphosisDev<br>
 ㅤ• Emailㅤㅤㅤ: jonasusilo804@gmail.com 
 
-\
